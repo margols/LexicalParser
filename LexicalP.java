@@ -3,7 +3,7 @@ import java.util.*;
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 
-public class LP5{
+public class LexicalP{
     public static void main(String argv[ ]) throws Exception{
 
         File fileObj = new File("ALevel.java"); 
