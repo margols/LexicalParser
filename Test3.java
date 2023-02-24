@@ -1,5 +1,5 @@
 import java.util.*; 
-class Temperature{
+class Test3{
 
    // attribute
    private double farenheit;
