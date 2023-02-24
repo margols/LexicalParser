@@ -5,8 +5,8 @@ import java.io.FileNotFoundException;  // Import this class to handle errors
 
 public class LexicalP{
     public static void main(String argv[ ]) throws Exception{
-
-        File fileObj = new File("ALevel.java"); 
+    //input file name
+        File fileObj = new File("filename.java"); 
         Scanner fileIn = new Scanner(fileObj);
         String wholeProgram = ""; 
     
