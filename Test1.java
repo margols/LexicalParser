@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ALevel{
+class Test1{
    
    public static void main(String argv[ ]) throws Exception{
       Scanner sc = new Scanner(System.in);   
