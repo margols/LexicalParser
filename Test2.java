@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ExtraCredit{
+class Test2{
    public static void main(String argv[]){
       Scanner sc = new Scanner (System.in);
       
